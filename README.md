@@ -7,7 +7,7 @@ Ceci est le desciptif du système de guidage conçu par Renaud ILTIS et diffusé
 ****
 Description
 
-Le système - dénomé MC4X_slide - est constitué d'un profilé en aluminium de type Motedis de la gamme 20 B-Typ rainure (soit 20 B-Typ nut 6, ou 20 B-Type slot 6), ou de tout profilé dont les rainures sont identiques, et d'un roulement à bille normalisé de type 608 qui roule sur les deux bords de la rainure du profilé sans la pénétrer et sans en sortir. Le principe de cette correspondance parfaite entre le roulement de type 608 et la rainure du profilé est le coeur du système ici décrit.
+Le système - dénomé MC4X_slide - est constitué d'un profilé en aluminium de type Motedis de la gamme 20 B-Typ rainure (soit 20 B-Typ nut 6, ou 20 B-Type slot 6), ou de tout profilé dont les rainures sont identiques, et d'un roulement à bille normalisé de type 608 qui roule sur les deux bords de la rainure du profilé sans la pénétrer et sans en sortir latéralement. Le principe de cette correspondance parfaite entre le roulement de type 608 et la rainure du profilé est le coeur du système ici décrit.
 
 ****
 Licence
